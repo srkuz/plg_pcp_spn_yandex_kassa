@@ -1,5 +1,5 @@
 # plg_pcp_spn_yandex_kassa
-Paymen plagin Yandex Kassa for Phoca Cart
+
 Плагин Yandex Kassa для Joomla Phoca Cart позволяет подключить интернет-магазин на базе Phoca Cart к  Yandex.Kassa и принимать платежи всеми доступными в Kassa.Yandex методами с обоеспечением требований 54-ФЗ (стыковка с онлайн кассами и операторами фискальных данных).
 
 Phoca Cart - это бесплатный компонент, позволяющий на бесплатной CMS Joomla быстро создать вполне приличный и функциональный интернет магазин (см. https://phoca.cz/phocacart).
